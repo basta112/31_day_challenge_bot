@@ -1,2 +1,2 @@
-worker: python3.10 main.py
+python3.10 main.py
 
